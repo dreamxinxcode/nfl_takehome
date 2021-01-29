@@ -16,4 +16,6 @@ Thank you for taking the time to review my submission.
 
 `python manage.py runserver`
 
+### Visit:
+
 `http://localhost:8000/api/events/2020-01-12/2020-01-19`
