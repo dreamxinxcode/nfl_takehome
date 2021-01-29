@@ -4,6 +4,10 @@ Thank you for taking the time to review my submission.
 
 ## Getting Started
 
+`git clone https://github.com/dreamxinxcode/nfl_takehome`
+
+`cd nfl_takehome`
+
 `python -m venv env`
 
 `source env/bin/activate`
